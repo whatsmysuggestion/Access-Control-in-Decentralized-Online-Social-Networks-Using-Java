@@ -1,0 +1,15 @@
+Existing:
+
+	Centralized online social networks collect and store 
+private information and are thus prone to privacy leaks, ranging
+from modest data mining for advertisement purposes to direct 
+transfer of data to third parties.
+
+Proposed:
+
+	Decentralized online social networks (DOSN) 
+that hide the data but reveal the access policies.
+
+Future Enhancement:
+
+	Hide the attributes and access policy of a user.
